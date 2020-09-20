@@ -1,0 +1,9 @@
+# remove model weights 
+autoencoder*/*pth
+
+# python env 
+deep_env/
+
+# dataset
+MNIST/
+

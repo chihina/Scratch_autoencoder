@@ -1,2 +1,2 @@
 # Scratch_autoencoder
-Implement autoencoder 
+Implement autoencoder with python

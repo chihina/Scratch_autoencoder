@@ -25,7 +25,7 @@ Second, I show the results of convolutional autoencoder (only use Conv and Relu 
 ![Result image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder__0402_gpu_conv_ver2/cha_image_validation.png)
 
 
-## Contact
+## Contacts
 If you can know about detail me, you can see my website.
 
 Qitta page: https://qiita.com/chi-na  

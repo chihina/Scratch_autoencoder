@@ -1,5 +1,5 @@
 # Scratch_autoencoder
-Implement autoencoder with python
+This repository include the implementaion of simple auto enconder using python.
 
 ## Contents of repocitory
 I implemented "Auto Encoder" with python.  

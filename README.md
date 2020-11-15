@@ -6,7 +6,7 @@ I implemented "Auto Encoder" with python.
 There are some network architectures. 
 
 ## Example 
-Fisrt, I show the results of simple autoencoder (only use Linear and Relu layer)  
+- Fisrt, I show the results of simple autoencoder (only use Linear and Relu layer)  
 (AutoEncoder_pytorch_gpu_ver6.py)  
 
 ### Original MNIST image  
@@ -15,7 +15,7 @@ Fisrt, I show the results of simple autoencoder (only use Linear and Relu layer)
 ### Result Image  
 ![Result image](https://github.com/chihina/Scratch_autoencoder/blob/master/autoencoder_0402_gpu_ver6/cha_image_validation_3.png)
 
-Second, I show the results of convolutional autoencoder (only use Conv and Relu layer)  
+- Second, I show the results of convolutional autoencoder (only use Conv and Relu layer)  
 (AutoEncoder_pytorch_deep_gpu_0403_ver2.py)
 
 ### Original MNIST image  
@@ -28,8 +28,8 @@ Second, I show the results of convolutional autoencoder (only use Conv and Relu 
 ## Contacts
 If you can know about detail me, you can see my website.
 
-Qitta page: https://qiita.com/chi-na  
+- Qitta page: https://qiita.com/chi-na  
 
-Wantedly page: https://www.wantedly.com/users/113653637  
+- Wantedly page: https://www.wantedly.com/users/113653637  
 
-Github page: https://github.com/chihina
+- Github page: https://github.com/chihina
